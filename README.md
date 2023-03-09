@@ -1,1 +1,1 @@
-# Klipper_Config_E3Pro
+# My Klipper Ender 3 Pro Config
